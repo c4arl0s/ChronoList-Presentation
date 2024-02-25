@@ -1,8 +1,12 @@
 # ChronoList-Presentation
 
-This README file only pretends to be a presentation for the real project.
-
 # [go back to Overview](https://github.com/c4arl0s)
+
+In order to update an existing Git submodule execute: (You might need permissions from Owner to get submodules)
+
+```console
+git submodule update --remote --merge
+```
 
 # [ChronoList - Content](https://github.com/c4arl0s/ChronoList#go-back-to-overview)
 
